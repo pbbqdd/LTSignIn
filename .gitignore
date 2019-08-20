@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+tests-token.py
+tests2-token.py
